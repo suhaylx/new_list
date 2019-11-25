@@ -22,6 +22,6 @@ print(f'there is the changer_list\n {changer_list}\n')
 copy_list = list_of_products [:]
 copy_list[3] = 'banana'
 
-print("\t New list", copy_list )
+print("\t New list ", copy_list )
 
 print("\t First intial list ", list_of_products)
