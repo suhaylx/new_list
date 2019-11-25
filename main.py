@@ -15,7 +15,7 @@ changer_list[3] = 'eggplant'
 print(f"this is the proof of concept that list_of_products changed by changer_list \n {list_of_products}", "\n")
 print(f'there is the changer_list\n {changer_list}\n')
 
-#this is concept of hard link that "one data source " can be changed by two hard links
+#this is concept of hard link that "one data source" can be changed by two hard links
 
 # but we can use other slice copy in order to not change initial source we we modify second list 
 
